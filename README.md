@@ -18,10 +18,10 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ## Features:
-> Reset Password using Email
-> Customize Admin Pannel
-> Customized Models with Signal and some other stuff
-> Add To wishlist
-> Add to Cart
-> Stripe Payment Gateway Integration
+- Reset Password using Email
+- Customize Admin Pannel
+- Customized Models with Signal and some other stuff
+- Add To wishlist
+- Add to Cart
+- Stripe Payment Gateway Integration
 
