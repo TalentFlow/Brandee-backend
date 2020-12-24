@@ -20,8 +20,11 @@ python manage.py runserver
 ## Features:
 - Reset Password using Email
 - Customize Admin Pannel
+- Custome User Model
 - Customized Models with Signal and some other stuff
 - Add To wishlist
 - Add to Cart
 - Stripe Payment Gateway Integration
-
+- Django Rest Framework JWT
+- Token Refreshing and Verification
+- Token's Expiry Date
