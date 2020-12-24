@@ -10,3 +10,10 @@ source env/bin/activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
+## Or
+
+```json
+pipenv shell
+pip install -r requirements.txt
+python manage.py runserver
+```
